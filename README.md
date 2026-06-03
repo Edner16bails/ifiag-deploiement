@@ -8,7 +8,8 @@ Projet réalisé dans le cadre du contrôle continu de l'UF **Déploiement d'App
 - JavaScript
 
 ## Lien de l'application déployée sur Netlify
-https://github.com/Edner16bails/ifiag-deploiement.git
+https://phenomenal-crostata-b20657.netlify.app/
+
 
 ## Structure du projet
 ```
@@ -24,7 +25,7 @@ iffiag-deploiement/
 ```bash
 git init
 git add .
-git commit -m "first commit"
+git commit -m "Premier commit"
 git branch ifiag-exp
 git checkout ifiag-exp
 git merge ifiag-exp
